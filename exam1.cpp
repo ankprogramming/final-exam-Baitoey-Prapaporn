@@ -22,6 +22,6 @@ int main() {
             sum4=a/b;
             cout<<"Result = "<<sum4<<endl;
         }else{break;}
-    }while(1);
+    }while(0);
         return 0;
 }
